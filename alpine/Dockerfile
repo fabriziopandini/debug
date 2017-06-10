@@ -1,4 +1,4 @@
-FROM fabriziopandini/pause:latest-alpine
+FROM fabriziopandini/pause:alpine
 MAINTAINER Fabrizio Pandini <fabrizio.pandini@gmail.com>
 
 RUN apk add --update --no-cache curl python3 iputils net-tools

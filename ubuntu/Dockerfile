@@ -1,4 +1,4 @@
-FROM fabriziopandini/pause:latest-ubuntu
+FROM fabriziopandini/pause:ubuntu
 MAINTAINER Fabrizio Pandini <fabrizio.pandini@gmail.com>
 
 RUN apt-get update
