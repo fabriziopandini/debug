@@ -22,6 +22,7 @@ on ubuntu
 - net-tools (arp, hostname, ifconfig, netstat, rarp, route, plipconfig, slattach, mii-tool and iptunnel and ipmaddr.)
 - iputils-ping (ping) and iputils-tracepath (tracepath, traceroute6)
 - dnsutils (dig, nslookup, nsupdate)
+- stress-ng
 
 # Usage
 
